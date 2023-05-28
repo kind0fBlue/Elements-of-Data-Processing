@@ -1,4 +1,4 @@
-# COMP20008-ASS2-GROUP69
+# COMP20008-GROUP69
 
 ## Author
 + Xuanxiu Chen（ID:913268）
